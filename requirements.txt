@@ -1,0 +1,8 @@
+fastapi
+sqlmodel
+bcrypt
+passlib
+uvicorn
+psycopg2-binary
+mysql-connector-python
+pymysql
